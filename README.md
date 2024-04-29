@@ -6,8 +6,8 @@ This program is designed to recognize human speech and convert it into text in r
 The WPF program uses the following NuGet packages:
 1. DocumentFormat.OpenXml
 2. NAudio.WaveFormRenderer
-3.System.Drawing.Common
-4.NAudio.Core
+3. System.Drawing.Common
+4. NAudio.Core
 5. Cake.Core
 
 P.S if your audio devices are not displayed in the drop-down list, then click on the Start button, then close the program and open it again.
